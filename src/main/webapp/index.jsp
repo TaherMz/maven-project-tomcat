@@ -8,7 +8,7 @@
 <body>
   <div class="jumbotron" style="background-color:white">
      <h1 class="text-center">Welcome to our new Maven web Application </h1>
-      <h1> Event GLSI_C 01/12/2023 MTM 5 MED TAHER </h1>
+      <h1> Event GLSI_C 01/12/2023 MTM 5 MED TAHER
       <img src="https://www.tek-up.de/plans/img/logo-header.png" alt="Spidertocat"
            class="img-responsive center-block" style={{width: 300px}}/>
       <h1 class="text-center">My Web Server deployment is done with jenkins</h1>
